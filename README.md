@@ -4,8 +4,9 @@ Using pollutant data (CO, PM₁₀, NH₃, SO₂) collected across multiple citi
 # Air Quality Monitoring Analysis (India)
 
 ## 📘 Dataset
-- Source: data.gov.in
-- Contains pollutant data across cities, stations, and pollutants (CO, PM10, NH3, SO2)
+- Source: [data.gov.in](https://data.gov.in/)
+- Contains pollutant data across cities, stations
+- pollutants: CO, PM10, NH3, SO2
 
 ## 🔍 Analysis
 - Cleaning and transformation
@@ -20,9 +21,19 @@ Using pollutant data (CO, PM₁₀, NH₃, SO₂) collected across multiple citi
 5. Station map by pollutant [station_locations.png](https://github.com/bhandaripratibha/air-quality-index/blob/main/station_locations.png)
 
 ## 💡 Insights
-- PM10 & CO most common pollutants
+- **PM10 & CO** are the most common pollutants
 - Some cities show average pollutant levels > safe limits
-- Strong correlation between min, max, avg
+- Strong **correlation between min, max, and avg** pollutant values suggests consistent pollution patterns.  
+- Spatial visualization reveals **urban centers** have denser monitoring coverage.  
+
 
 ## 🧠 Tools
 Python · Pandas · Matplotlib · Seaborn · Google Colab
+
+## 👩‍💻 Author
+
+**Pratibha Bhandari**  
+Ph.D. Research Scholar, [Indian Institute of Science (IISc), Bengaluru](https://iisc.ac.in/)  
+
+📧 **Email:** pratibhab@iisc.ac.in  
+📊 **Focus Areas:** Data Science · Environmental Analytics · Graph Representation Learning · Stochastic Differential Equations 
