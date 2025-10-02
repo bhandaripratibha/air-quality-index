@@ -13,7 +13,7 @@ Using pollutant data (CO, PM₁₀, NH₃, SO₂) collected across multiple citi
 - Visualization using Matplotlib and Seaborn
 
 ## 📈 Key Plots
-1. ![Pollutant frequency count] (https://github.com/bhandaripratibha/air-quality-index/blob/main/Pollutant_count.jpg)
+1. Pollutant count frequency [Pollutant_count.jpg](https://github.com/bhandaripratibha/air-quality-index/blob/main/Pollutant_count.jpg)
 2. Distribution of pollutant averages
 3. Top 10 polluted cities
 4. Correlation heatmap
