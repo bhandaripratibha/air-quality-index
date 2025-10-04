@@ -14,11 +14,11 @@ Using pollutant data (CO, PM₁₀, NH₃, SO₂) collected across multiple citi
 - Visualization using Matplotlib and Seaborn
 
 ## 📈 Key Plots
-1. Pollutant count frequency [Pollutant_count.jpg](https://github.com/bhandaripratibha/air-quality-index/blob/main/Pollutant_count.jpg)
-2. Distribution of pollutant averages [pollutant_avg_boxplot.png](https://github.com/bhandaripratibha/air-quality-index/blob/main/pollutant_avg_boxplot.png)
-3. Top 10 polluted cities [top10_cities.png](https://github.com/bhandaripratibha/air-quality-index/blob/main/top10_cities.png)
-4. Correlation heatmap [correlation_heatmap.png](https://github.com/bhandaripratibha/air-quality-index/blob/main/correlation_heatmap.png)
-5. Station map by pollutant [station_locations.png](https://github.com/bhandaripratibha/air-quality-index/blob/main/station_locations.png)
+1. Pollutant count frequency [Pollutant_count.jpg](plots/pollutant_count.png)
+2. Distribution of pollutant averages [pollutant_average.png](plots/pollutant_average.png)
+3. Top 10 polluted cities [top10_cities.png](plots/top10_mostpolluted_cities.png)
+4. Correlation heatmap [correlation_heatmap.png](plots/correlation_heatmap.png)
+5. Station map by pollutant [station_locations.png](plots/station_pollutant.png)
 
 ## 💡 Insights
 - **PM10 & CO** are the most common pollutants
